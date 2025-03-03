@@ -32,7 +32,12 @@
   - 発音形
   - 語種
 
-## サンプル
+## 形態論情報ライセンス
+- [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+- テキストデータのライセンスは[青空文庫の記述](https://www.aozora.gr.jp/guide/kijyunn.html)に従ってください。
+
+## データサンプル
 ```
 太宰治 走れメロス	OH_SC青空文庫	10	30	B	走れ	走る	ハシル	動詞-一般	五段-ラ行	命令形	ハシレ	和
 太宰治 走れメロス	OH_SC青空文庫	30	60	I	メロス	メロス	メロス	名詞-固有名詞-人名-一般			メロス	固
@@ -63,8 +68,3 @@
 太宰治 走れメロス	OH_SC青空文庫	430	440	I	た	た	タ	助動詞	助動詞-タ	終止形-一般	タ	和
 太宰治 走れメロス	OH_SC青空文庫	440	450	I	。	。		補助記号-句点				記号
 ```
-
-## 形態論情報ライセンス
-- [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-- テキストデータのライセンスは[青空文庫の記述](https://www.aozora.gr.jp/guide/kijyunn.html)に従ってください。
